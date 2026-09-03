@@ -1,4 +1,4 @@
-# Will Barker, PhD
+# Will Barker
 
 Computational scientist building reliable research software at the intersection of bioinformatics, scientific data, machine learning, and systems engineering. I work primarily in Python, Rust, Bash, and SQL, with domain experience spanning influenza virology, viral genomics, drug discovery, and omics analysis.
 
