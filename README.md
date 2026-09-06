@@ -21,8 +21,6 @@ I am also the founder of [SignalForge Advisors](https://signalforgeadvisors.com)
 
 My public projects emphasize deterministic behavior, strict input validation, automated testing, reproducible examples, explicit scientific limitations, and interfaces that can be inspected rather than trusted opaquely.
 
-Some projects use AI-assisted research and development. Releases are human-reviewed, locally verified, and accompanied by explicit development and validation records.
-
 ## Areas of focus
 
 **Bioinformatics & computational biology**
