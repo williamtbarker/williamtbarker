@@ -10,10 +10,11 @@ I am also the founder of [SignalForge Advisors](https://signalforgeadvisors.com)
 
 | Project | What it does |
 | --- | --- |
+| [FluFormer](https://github.com/williamtbarker/fluformer) | Scientific machine learning for influenza proteomes: multitask classification, temporal conditioning, and reproducible held-out evaluation |
 | [SigTrellis](https://github.com/williamtbarker/sigtrellis) | Replicate-aware elastic-net discovery and validation of candidate transcriptomic signatures in bulk and single-cell RNA-seq |
-| [BayesTrellis](https://github.com/williamtbarker/bayestrellis) | Bayesian candidate-signature discovery for bulk and single-cell transcriptomics; currently an explicitly labeled research alpha |
-| [FluFormer](https://github.com/williamtbarker/fluformer) | Multitask and temporally conditioned influenza protein modeling with reproducible evaluation |
 | [Virustic2](https://github.com/williamtbarker/virustic2) | Deterministic, quality-aware de Bruijn viral unitig assembly in Rust |
+| [FluTrees](https://github.com/williamtbarker/flutrees) | Scientist-facing influenza HA mutation decision trees with desktop GUI, reports, and reproducible CLI workflows |
+| [BayesTrellis](https://github.com/williamtbarker/bayestrellis) | Bayesian candidate-signature discovery for bulk and single-cell transcriptomics; currently an explicitly labeled research alpha |
 | [Antigenic Audit](https://github.com/williamtbarker/antigenic-audit) | Detects entity leakage, reversed-role leakage, and temporal overclaiming in influenza antigenicity evaluations |
 | [Stabilomics](https://github.com/williamtbarker/stabilomics) | Robust LAD-LASSO stability selection for high-dimensional scientific feature tables |
 | [RefAudit](https://github.com/williamtbarker/refaudit) | Audits downstream sensitivity to reference-genome choice |
